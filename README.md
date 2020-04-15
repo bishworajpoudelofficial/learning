@@ -1,2 +1,2 @@
 # learning
-Learning Git and Github
+Learning Git and Github from online class
